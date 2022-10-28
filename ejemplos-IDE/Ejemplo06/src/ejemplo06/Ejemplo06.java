@@ -1,4 +1,4 @@
-/*
+ /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -34,6 +34,6 @@ public class Ejemplo06 {
         
         System.out.println("----------------");
         System.out.println(10!=2); // true
-    }
+    }                              
     
 }
